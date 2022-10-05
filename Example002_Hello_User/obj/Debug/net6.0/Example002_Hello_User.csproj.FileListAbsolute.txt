@@ -13,3 +13,18 @@ D:\Учеба (разработчик) работа в группе\Examples\Exa
 D:\Учеба (разработчик) работа в группе\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.pdb
 D:\Учеба (разработчик) работа в группе\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.genruntimeconfig.cache
 D:\Учеба (разработчик) работа в группе\Examples\Example002_Hello_User\obj\Debug\net6.0\ref\Example002_Hello_User.dll
+D:\work\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.exe
+D:\work\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.deps.json
+D:\work\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.runtimeconfig.json
+D:\work\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.dll
+D:\work\Examples\Example002_Hello_User\bin\Debug\net6.0\Example002_Hello_User.pdb
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.csproj.AssemblyReference.cache
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.AssemblyInfoInputs.cache
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.AssemblyInfo.cs
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.csproj.CoreCompileInputs.cache
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.dll
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\refint\Example002_Hello_User.dll
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.pdb
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\Example002_Hello_User.genruntimeconfig.cache
+D:\work\Examples\Example002_Hello_User\obj\Debug\net6.0\ref\Example002_Hello_User.dll

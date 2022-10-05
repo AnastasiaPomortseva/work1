@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба (разработчик) работа в группе\\Examples\\Example001_new_console\\Example001_new_console.csproj": {}
+    "D:\\work\\Examples\\Example001_new_console\\Example001_new_console.csproj": {}
   },
   "projects": {
-    "D:\\Учеба (разработчик) работа в группе\\Examples\\Example001_new_console\\Example001_new_console.csproj": {
+    "D:\\work\\Examples\\Example001_new_console\\Example001_new_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба (разработчик) работа в группе\\Examples\\Example001_new_console\\Example001_new_console.csproj",
+        "projectUniqueName": "D:\\work\\Examples\\Example001_new_console\\Example001_new_console.csproj",
         "projectName": "Example001_new_console",
-        "projectPath": "D:\\Учеба (разработчик) работа в группе\\Examples\\Example001_new_console\\Example001_new_console.csproj",
+        "projectPath": "D:\\work\\Examples\\Example001_new_console\\Example001_new_console.csproj",
         "packagesPath": "C:\\Users\\79154\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба (разработчик) работа в группе\\Examples\\Example001_new_console\\obj\\",
+        "outputPath": "D:\\work\\Examples\\Example001_new_console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79154\\AppData\\Roaming\\NuGet\\NuGet.Config"

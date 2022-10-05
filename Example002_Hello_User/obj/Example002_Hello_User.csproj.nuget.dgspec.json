@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба (разработчик) работа в группе\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj": {}
+    "D:\\work\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj": {}
   },
   "projects": {
-    "D:\\Учеба (разработчик) работа в группе\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj": {
+    "D:\\work\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба (разработчик) работа в группе\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj",
+        "projectUniqueName": "D:\\work\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj",
         "projectName": "Example002_Hello_User",
-        "projectPath": "D:\\Учеба (разработчик) работа в группе\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj",
+        "projectPath": "D:\\work\\Examples\\Example002_Hello_User\\Example002_Hello_User.csproj",
         "packagesPath": "C:\\Users\\79154\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба (разработчик) работа в группе\\Examples\\Example002_Hello_User\\obj\\",
+        "outputPath": "D:\\work\\Examples\\Example002_Hello_User\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79154\\AppData\\Roaming\\NuGet\\NuGet.Config"

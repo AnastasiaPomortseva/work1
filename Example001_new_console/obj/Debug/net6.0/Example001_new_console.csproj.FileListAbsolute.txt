@@ -13,3 +13,18 @@ D:\Учеба (разработчик) работа в группе\Examples\Exa
 D:\Учеба (разработчик) работа в группе\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.pdb
 D:\Учеба (разработчик) работа в группе\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.genruntimeconfig.cache
 D:\Учеба (разработчик) работа в группе\Examples\Example001_new_console\obj\Debug\net6.0\ref\Example001_new_console.dll
+D:\work\Examples\Example001_new_console\bin\Debug\net6.0\Example001_new_console.exe
+D:\work\Examples\Example001_new_console\bin\Debug\net6.0\Example001_new_console.deps.json
+D:\work\Examples\Example001_new_console\bin\Debug\net6.0\Example001_new_console.runtimeconfig.json
+D:\work\Examples\Example001_new_console\bin\Debug\net6.0\Example001_new_console.dll
+D:\work\Examples\Example001_new_console\bin\Debug\net6.0\Example001_new_console.pdb
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.csproj.AssemblyReference.cache
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.AssemblyInfoInputs.cache
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.AssemblyInfo.cs
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.csproj.CoreCompileInputs.cache
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.dll
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\refint\Example001_new_console.dll
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.pdb
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\Example001_new_console.genruntimeconfig.cache
+D:\work\Examples\Example001_new_console\obj\Debug\net6.0\ref\Example001_new_console.dll
